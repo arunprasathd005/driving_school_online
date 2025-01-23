@@ -1,4 +1,4 @@
-# Flutter Course App
+# Flutter Driving Course App
 
 A Flutter application that showcases course details and a user profile page.
 
