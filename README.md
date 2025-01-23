@@ -9,7 +9,7 @@ A Flutter application that showcases course details and a user profile page.
 
 ## Screenshots
 ### Home Page
-![Home Page](./Screenshots/home%20page.png)
+![Home Page](./Screenshots/home%10page.png)
 
 ### login Page
 ![login Page](./Screenshots/Log%20in.png)
