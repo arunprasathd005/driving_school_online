@@ -9,27 +9,22 @@ A Flutter application that showcases course details and a user profile page.
 
 ## Screenshots
 ### Home Page
-![Home Page]
 <!-- Adjust the width to 500px -->
 <img src="./Screenshots/home%20page.png" width="500"/>
 
 ### Login Page
-![Login Page]
 <!-- Adjust the width to 500px -->
 <img src="./Screenshots/Log%20in.png" width="500"/>
 
 ### Course Page
-![Course Page]
 <!-- Adjust the width to 500px -->
 <img src="./Screenshots/course.png" width="500"/>
 
 ### Course Details Page
-![Course Details Page]
 <!-- Adjust the width to 500px -->
 <img src="./Screenshots/course%20details.png" width="500"/>
 
 ### Profile Page
-![Profile Page]
 <!-- Adjust the width to 500px -->
 <img src="./Screenshots/Profile.png" width="500"/>
 
