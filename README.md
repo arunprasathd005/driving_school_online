@@ -9,7 +9,7 @@ A Flutter application that showcases course details and a user profile page.
 
 ## Screenshots
 ### Home Page
-![Home Page](./Screenshots/home%20page.png)
+![Home Page]
 <!-- Adjust the width to 500px -->
 <img src="./Screenshots/home%20page.png" width="500"/>
 
